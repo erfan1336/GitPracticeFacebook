@@ -3,5 +3,6 @@ mango
 dragon fruit
 kiwi
 banana
+pear(added from desktop)
 strawberry (added from intelliJ locally)
 
