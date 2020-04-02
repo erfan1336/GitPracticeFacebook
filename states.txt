@@ -7,3 +7,6 @@ Georgia
 D.C.
 Pennsylvania
 Washington
+Ohio
+Arizona
+Kansas
